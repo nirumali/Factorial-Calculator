@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\FactorialMicroservice.exe
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\FactorialMicroservice.deps.json
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\FactorialMicroservice.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\FactorialMicroservice.dll
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\FactorialMicroservice.pdb
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\bin\Debug\net7.0\NATS.Client.dll
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.dll
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\refint\FactorialMicroservice.dll
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.pdb
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\FactorialMicroservice.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Niranjan\FactorialMicroservice\obj\Debug\net7.0\ref\FactorialMicroservice.dll

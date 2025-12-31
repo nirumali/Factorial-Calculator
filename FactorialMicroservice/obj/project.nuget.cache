@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KhdTN0YrzSl8hoMYsEt3IUPwAbFyjFKqvAD4Q9tEEJiS02Z2Cs7nivy16TgRHkV9JHrGKlLB2EaF+ceqRQCdbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Niranjan\\FactorialMicroservice\\FactorialMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\nats.client\\1.1.8\\nats.client.1.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
